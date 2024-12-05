@@ -1,4 +1,4 @@
-- Hi, I’m Harley! (she/her)
+- Hi, I’m Harley (she/her)
 - Bsc Medical Pharmacology, Swansea University
 
 <!---
