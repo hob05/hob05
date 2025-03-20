@@ -1,5 +1,5 @@
 - Hi, I’m Harley (she/her)
-- Bsc Medical Pharmacology, Swansea University
+- Year 2 BSc Medical Pharmacology, Swansea University
 
 <!---
 hob05/hob05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
